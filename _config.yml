@@ -1,0 +1,24 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: https://www.buildastockportfolio.com/
+baseurl: 
+title: Build-a-Stock-Portfolio
+author: Peter Backx
+description: Personal blog and resume
+avatar: profile.png
+email: yourname@email.com
+github: jekyller/sustain # username
+twitter: username
+linkedin: username
+stackoverflow: username   #e.g: users/2735833/proton1h1
