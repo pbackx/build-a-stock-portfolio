@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://www.buildastockportfolio.com/
-baseurl: 
+baseurl: https://www.buildastockportfolio.com/
 title: Build-a-Stock-Portfolio
 author: Peter Backx
 description: Personal blog and resume
