@@ -1,6 +1,4 @@
 function showPopup() {
-	console.log('pop')
-
 	window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us1.list-manage.com","uuid":"dfef2582094d2c4bfe9f2a0f0","lid":"a04d8917e6","uniqueMethods":true}) })
 	//unsetting the cookie
 	document.cookie = "MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";                  
@@ -15,5 +13,5 @@ jQuery(document).ready(function(e) {
             scrollTop: e(this.hash).offset().top
         }, 1e3)
     })
-    e(".btn .btn-warning").click(showPopup);
+    e(".btn.btn-warning").click(showPopup);
 });
