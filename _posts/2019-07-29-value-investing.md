@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Factor investing: value
+title: 'Factor Investing: Focus on Value'
 tags:
 - Portfolio Idea
 - Value
