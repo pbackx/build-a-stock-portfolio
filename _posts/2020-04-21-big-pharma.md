@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dividend Aristocrats for Uncertain Times'
+title: 'Will Big Pharma Save Us All?'
 tags:
 - Portfolio Idea
 - Pharmaceuticals
